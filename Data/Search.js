@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-Topics/1 Introduction Types of content testing.htm'],s:['0','you'],p:[['0',2],['gunning',12],['seizures',7]]});
