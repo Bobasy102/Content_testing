@@ -1,1 +1,1 @@
-define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'Consectetur',c:0},{t:'Ipsum',c:0},{t:'Lorem',c:0},{t:'Maecenas',c:0},{t:'Maximus',c:0}]});
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'Accessibility',c:0},{t:'Content testing',c:0},{t:'English readability testing tools',c:0},{t:'Examples of accesibility testing tools',c:0},{t:'Functionality',c:0},{t:'Navigability',c:0},{t:'Polish readability testing tools',c:0},{t:'Proofreading',c:0},{t:'Readability',c:0},{t:'Steps of functional testing',c:0},{t:'Usability',c:0},{t:'Usability testing methods',c:0}]});
