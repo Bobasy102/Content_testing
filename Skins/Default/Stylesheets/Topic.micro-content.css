@@ -440,6 +440,76 @@
 	margin-bottom: 10px;
 }
 
+.micro-response .glossaryTerm
+{
+	font-weight: bold;
+	color: Olive;
+}
+
+.micro-response .glossaryTerm:link
+{
+	font-weight: bold;
+	color: Olive;
+}
+
+.micro-response .MCTextPopup_Open.MCTextPopupHotSpot_
+{
+	background-position: right;
+	background-image: url('ExpandingOpen.gif');
+	padding-right: 1px;
+	padding-left: 0;
+}
+
+.micro-response .MCTextPopup_Closed.MCTextPopupHotSpot_
+{
+	background-position: right;
+	background-image: url('ExpandingClosed.gif');
+	padding-right: 0px;
+	padding-left: 0;
+}
+
+.micro-response .popupBody
+{
+	color: #000000;
+	background-color: #dcdcdc;
+	border: solid 1px #000000;
+	margin: 0px;
+	padding: 5px;
+}
+
+.micro-response ul.MCGlossaryProxy_0
+{
+	border-top: none;
+	border-top-width: 1px;
+	border-top-style: none;
+	border-top-color: black;
+	padding-top: 10px;
+	margin-top: 10px;
+	padding-left: 20px;
+}
+
+.micro-response div.GlossaryPageHeading_0
+{
+	display: block;
+	font-size: 21pt;
+	font-weight: normal;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	text-align: left;
+	color: inherit;
+	padding-left: 10px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-right: 10px;
+	background-image: url('../../../Content/Resources/Images/Backmatter-Heading-Background.png');
+	background-repeat: no-repeat;
+	margin-left: 0pt;
+	page-break-after: avoid;
+	column-break-after: avoid;
+}
+
 .micro-response .MCWebHelpFramesetLink a
 {
 	

@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-Topics/1 Introduction Types of content testing.htm'],s:['0','writer'],p:[['0',2],['guide',9],['screenshot2',4]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-Topics/1 Introduction Types of content testing.htm'],s:['0','write'],p:[['0',2],['group',6],['score',2]]});
